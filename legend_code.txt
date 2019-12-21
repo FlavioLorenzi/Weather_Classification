@@ -1,0 +1,13 @@
+README.
+
+Explanation of files used for the two image classification tasks:
+
+1)CNN trained from the scratch
+-lenet.py  is the used network architecture
+-train_network.py  is the training launch
+-predict.py  is the launch for compute predictions over the test_dataset
+
+2)TRANSFER LEARNING FROM INCEPTION-V3 
+-classify.py  launched to download the pre-trained model and can be already tested to classify external photos
+-retrain.py  is the training launch with the Weather Dataset, where I did the hyperparams tuning
+-label.py  is the file used to copute predictions of labels over the test_dataset
