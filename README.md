@@ -21,3 +21,6 @@ For both experiments I got very good results as following
 ![](b.jpg)
 
 
+The final conclusion was that transfer learning works better for these types of tasks and that thanks to this it was possible to achieve very high accuracy (solving some problems that were instead encountered with the previous cnn).
+
+
