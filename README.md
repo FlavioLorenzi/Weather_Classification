@@ -12,7 +12,7 @@ Image Classification Task thanks to Transfer Learning and Convolutional Neural N
 The goal is to use two different tools to achieve the same goal, estimating which tool was better (CNN vs Transfer Learning). The same image dataset was used for both experiments.
 
 # Approach
-The approach for both experiments is described into the "report.pdf"
+The approach for both experiments is described into the [report](report.pdf) 
 
 # Results
 For both experiments I got very good results as following
