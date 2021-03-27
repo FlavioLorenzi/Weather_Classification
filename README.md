@@ -1,9 +1,12 @@
-# ImageClassification
-Image Classification Task thanks to Transfer Learning and Convolutional Neural Networks.
+# Weather Classification
+Image Classification Task thanks to Convolutional Neural Networks and Transfer Learning.
+
+
+The first part is
 ![alt text](https://miro.medium.com/max/2048/1*1YGLNeWWyEsA9NpNK6Y0UA.jpeg)
 
 
-# GOAL: Weather Classification
+## GOAL: Weather Classification
 
 
 ![](a.jpg)
@@ -11,10 +14,10 @@ Image Classification Task thanks to Transfer Learning and Convolutional Neural N
 
 The goal is to use two different tools to achieve the same goal, estimating which tool was better (CNN vs Transfer Learning). The same image dataset was used for both experiments.
 
-# Approach
+## Approach
 The approach for both experiments is described into the [report](report.pdf) 
 
-# Results
+## Results
 For both experiments I got very good results as following
 
 
